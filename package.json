@@ -1,5 +1,5 @@
 {
-  "name": "grabshot",
+  "name": "grabshot-sdk",
   "version": "1.0.0",
   "description": "Capture website screenshots with a simple API. Free tier included.",
   "main": "index.js",
@@ -24,10 +24,10 @@
   "homepage": "https://grabshot.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aitaskorchestra/grabshot-node"
+    "url": "https://github.com/aitaskorchestra/grabshot-sdk"
   },
   "bugs": {
-    "url": "https://github.com/aitaskorchestra/grabshot-node/issues"
+    "url": "https://github.com/aitaskorchestra/grabshot-sdk/issues"
   },
   "engines": {
     "node": ">=14"

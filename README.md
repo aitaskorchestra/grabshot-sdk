@@ -5,13 +5,13 @@ Capture website screenshots with a simple Node.js API. No headless browser requi
 ## Install
 
 ```bash
-npm install grabshot-api
+npm install grabshot-sdk
 ```
 
 ## Quick Start
 
 ```js
-const GrabShot = require('grabshot-api');
+const GrabShot = require('grabshot-sdk');
 const fs = require('fs');
 
 const client = new GrabShot('your-api-key');
